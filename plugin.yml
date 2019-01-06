@@ -1,0 +1,7 @@
+name: CatchBadWords
+main: bad.words.plugin.Plugin
+version: 1.0
+
+commands:
+  cbwreload:
+    description: 
